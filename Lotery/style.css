@@ -3,8 +3,10 @@ body {
 }
 #box {
     position: absolute;
-width: 50px;
-height: 80px;
+width: 250px;
+height: 330px;
 margin: 50px;
 background-color: blue;
+right: 600px;
+bottom: 200px;
 }
