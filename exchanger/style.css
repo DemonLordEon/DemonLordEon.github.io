@@ -1,0 +1,22 @@
+body {
+    background-color: teal;
+}
+
+#box {
+    position: absolute;
+    width: 250px;
+    height: 330px;
+    margin: 50px;
+    background-color: lightgreen;
+    right: 570px;
+    bottom: 200px;
+}
+h2 {
+    margin-left: 80px;
+}
+p {
+    margin-left: 20px;
+}
+#price {
+    margin-left: 10px;
+}
