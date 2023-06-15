@@ -1,0 +1,20 @@
+body {
+    background-image: linear-gradient(to top, rgba(60, 1, 60),  rgb(9, 110, 7), rgb(30, 5, 83));
+    background-repeat: no-repeat;
+    margin: 52%;
+}
+
+#box {
+    height: 400px;
+    width: 900px;
+    background-image: linear-gradient(to top, rgb(128, 7, 7),  rgb(206, 7, 50), rgb(85, 15, 15));
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 300px;
+    bottom: 200px;
+    padding: 20px;
+}
+img {
+    height: 200px;
+    width: 400px;
+}
